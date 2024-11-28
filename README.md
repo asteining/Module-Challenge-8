@@ -43,11 +43,11 @@ Compile the TypeScript Code:
 1. -npx tsc
 
 Run the Application:
-1. -node dist/index.js
+1. -npm start
 
 # How to Use
 Launch the CLI
-1. -node dist/index.js
+1. -npm start
 
 Menu Options:
 1. Create a New Vehicle
