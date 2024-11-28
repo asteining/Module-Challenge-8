@@ -12,15 +12,15 @@ Create Vehicles:
 3. Truck
 
 Perform Actions:
-1. Start the vehicle
-2. Accelerate or decelerate.
-3. Turn left or right.
-4. Stop the vehicle.
-5. Print vehicle details.
-6. Truck-Specific Actions:
-7. Tow another vehicle if it is within the towing capacity.
-8. Motorbike-Specific Actions:
-9. Perform a wheelie.
+
+Car:
+1. Print vehicle details.
+
+Truck-Specific Actions:
+1. Tow another vehicle if it is within the towing capacity.
+
+Motorbike-Specific Actions:
+1. Perform a wheelie.
 
 Vehicle Details:
 1. View comprehensive details of each vehicle, including VIN, make, model, year, weight, top speed, and wheel specifications.
@@ -57,7 +57,7 @@ Menu Options:
 
 Perform an Action on an Existing Vehicle
 1. Select a vehicle from the preloaded or created vehicles:
-2. Choose actions like start, accelerate, print details, or vehicle-specific features (e.g., towing, wheelie).
+2. Choose actions print details, or vehicle-specific features (e.g., towing, wheelie).
 
 Exit:
 1. Quit the application.
