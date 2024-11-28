@@ -31,37 +31,36 @@ Prerequisites:
 1. Node.js (v18.x or later recommended)
 2. npm (Node Package Manager)
 
-Steps
-1. Clone the Repository
-    -git clone <git@github.com:asteining/Module-Challenge-8-AramisSteininger.git>
-    -cd <repository-folder>
 
-2. Install Dependencies:
-    -npm install
+Clone the Repository
+1. -git clone <git@github.com:asteining/Module-Challenge-8-AramisSteininger.git>
+2. -cd into correct folder
 
-3. Compile the TypeScript Code  
-    -npx tsc
+Install Dependencies:
+1. -npm install
 
-4. Run the Application:
-    -node dist/index.js
+Compile the TypeScript Code: 
+1. -npx tsc
+
+Run the Application:
+1. -node dist/index.js
 
 # How to Use
-1. Launch the CLI
-    -node dist/index.js
+Launch the CLI
+1. -node dist/index.js
 
-2. Menu Options
-Create a New Vehicle:
-Choose to create a car, truck, or motorbike:
-Follow prompts to input vehicle details (e.g., color, make, model, etc.):
-Default wheels are created for cars and trucks if none are provided:
+Menu Options:
+1. Create a New Vehicle
+2. Choose to create a car, truck, or motorbike:
+3. Follow prompts to input vehicle details (e.g., color, make, model, etc.):
+4. Default wheels are created for cars and trucks if none are provided:
 
-3. Perform an Action on an Existing Vehicle
-Select a vehicle from the preloaded or created vehicles:
-Choose actions like start, accelerate, print details, or vehicle-specific features (e.g., towing, wheelie).
+Perform an Action on an Existing Vehicle
+1. Select a vehicle from the preloaded or created vehicles:
+2. Choose actions like start, accelerate, print details, or vehicle-specific features (e.g., towing, wheelie).
 
-4. Exit:
-
-Quit the application.
+Exit:
+1. Quit the application.
 
 # Future Enhancements
 1. Add persistence to save and reload vehicles between sessions.
